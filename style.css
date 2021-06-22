@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+    background-image:src="https://img.icons8.com/color/2x/heart-balloon.png";
+}
+.color{
+    background-color: rgb(255, 82, 154);
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+    font-size: larger;
+    color: rgb(255, 238, 247);
+}
